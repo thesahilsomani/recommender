@@ -1,0 +1,2447 @@
+userID,itemID,event,bookID
+24326,4,addtocart,Mockingbird
+8167,4,view,Mockingbird
+10402,5,addtocart,Gatsby
+1169,1,view,Hunger Games
+32748,4,view,Mockingbird
+24845,1,transaction,Hunger Games
+19984,3,view,Twilight
+25182,2,transaction,Harry Potter
+15547,5,view,Gatsby
+13794,4,addtocart,Mockingbird
+2487,3,view,Twilight
+11692,5,view,Gatsby
+46421,5,addtocart,Gatsby
+51838,1,view,Hunger Games
+20076,3,view,Twilight
+19942,3,view,Twilight
+25182,3,addtocart,Twilight
+5461,5,view,Gatsby
+46421,5,transaction,Gatsby
+44397,1,view,Hunger Games
+2487,1,view,Hunger Games
+11854,1,addtocart,Hunger Games
+17663,1,addtocart,Hunger Games
+11927,1,view,Hunger Games
+45493,5,addtocart,Gatsby
+45269,2,view,Harry Potter
+17984,4,transaction,Mockingbird
+1169,4,addtocart,Mockingbird
+11927,1,addtocart,Hunger Games
+32748,2,view,Harry Potter
+8178,4,addtocart,Mockingbird
+32055,1,view,Hunger Games
+48559,2,view,Harry Potter
+45269,5,view,Gatsby
+2077,1,view,Hunger Games
+11691,5,view,Gatsby
+24845,1,addtocart,Hunger Games
+48687,5,transaction,Gatsby
+46421,2,transaction,Harry Potter
+17663,2,view,Harry Potter
+5115,4,addtocart,Mockingbird
+16569,3,view,Twilight
+21217,2,addtocart,Harry Potter
+5272,3,view,Twilight
+2487,1,addtocart,Hunger Games
+45269,4,transaction,Mockingbird
+20848,3,addtocart,Twilight
+6630,4,addtocart,Mockingbird
+11927,1,view,Hunger Games
+1169,5,transaction,Gatsby
+38082,2,addtocart,Harry Potter
+51460,2,addtocart,Harry Potter
+9771,3,addtocart,Twilight
+19724,4,addtocart,Mockingbird
+48559,2,view,Harry Potter
+20076,3,view,Twilight
+24326,4,view,Mockingbird
+29123,1,addtocart,Hunger Games
+47730,4,addtocart,Mockingbird
+24499,1,transaction,Hunger Games
+32305,1,view,Hunger Games
+5461,1,view,Hunger Games
+7001,3,view,Twilight
+11854,1,view,Hunger Games
+49298,1,view,Hunger Games
+18361,1,view,Hunger Games
+51166,1,addtocart,Hunger Games
+17434,3,addtocart,Twilight
+1169,5,view,Gatsby
+5115,5,view,Gatsby
+1952,5,transaction,Gatsby
+6634,3,addtocart,Twilight
+24389,1,view,Hunger Games
+17643,4,view,Mockingbird
+33872,1,view,Hunger Games
+47800,2,addtocart,Harry Potter
+21487,2,view,Harry Potter
+17643,4,addtocart,Mockingbird
+30283,4,view,Mockingbird
+2900,5,addtocart,Gatsby
+39423,4,view,Mockingbird
+5436,4,view,Mockingbird
+42404,4,transaction,Mockingbird
+48559,4,view,Mockingbird
+10610,1,addtocart,Hunger Games
+2324,4,addtocart,Mockingbird
+4606,4,view,Mockingbird
+25214,1,view,Hunger Games
+50096,2,view,Harry Potter
+33716,2,addtocart,Harry Potter
+46977,1,view,Hunger Games
+17228,4,view,Mockingbird
+7563,1,view,Hunger Games
+13794,2,view,Harry Potter
+50104,5,view,Gatsby
+11927,2,view,Harry Potter
+26629,4,addtocart,Mockingbird
+50096,3,view,Twilight
+49295,3,view,Twilight
+19526,5,view,Gatsby
+25164,1,view,Hunger Games
+50096,3,addtocart,Twilight
+17663,1,transaction,Hunger Games
+11692,4,addtocart,Mockingbird
+43985,4,addtocart,Mockingbird
+48687,3,view,Twilight
+43985,1,addtocart,Hunger Games
+5379,1,addtocart,Hunger Games
+30944,4,transaction,Mockingbird
+29703,4,addtocart,Mockingbird
+44397,1,view,Hunger Games
+32592,3,view,Twilight
+29703,5,addtocart,Gatsby
+6634,3,view,Twilight
+16913,2,view,Harry Potter
+51838,5,view,Gatsby
+50133,2,view,Harry Potter
+10246,1,view,Hunger Games
+26629,5,view,Gatsby
+30681,2,view,Harry Potter
+32748,1,view,Hunger Games
+8178,4,view,Mockingbird
+6630,5,view,Gatsby
+27834,4,view,Mockingbird
+5115,3,view,Twilight
+44397,1,addtocart,Hunger Games
+36099,2,view,Harry Potter
+26145,1,addtocart,Hunger Games
+39423,4,view,Mockingbird
+11868,5,view,Gatsby
+7001,5,view,Gatsby
+2077,1,addtocart,Hunger Games
+33872,1,view,Hunger Games
+51838,4,addtocart,Mockingbird
+20467,5,addtocart,Gatsby
+22602,2,addtocart,Harry Potter
+8167,5,addtocart,Gatsby
+10246,5,view,Gatsby
+12874,4,view,Mockingbird
+44397,4,view,Mockingbird
+17434,3,view,Twilight
+12946,3,view,Twilight
+33872,5,view,Gatsby
+37834,3,view,Twilight
+14207,4,addtocart,Mockingbird
+36099,4,transaction,Mockingbird
+13544,1,addtocart,Hunger Games
+17228,5,view,Gatsby
+17228,4,view,Mockingbird
+32635,2,view,Harry Potter
+20406,4,view,Mockingbird
+28767,2,addtocart,Harry Potter
+33716,1,addtocart,Hunger Games
+52036,1,view,Hunger Games
+26661,5,transaction,Gatsby
+20467,4,addtocart,Mockingbird
+19729,5,addtocart,Gatsby
+1952,5,view,Gatsby
+11285,2,addtocart,Harry Potter
+27834,5,addtocart,Gatsby
+28767,2,view,Harry Potter
+12476,5,view,Gatsby
+26145,2,view,Harry Potter
+27499,2,transaction,Harry Potter
+32923,5,view,Gatsby
+28767,3,view,Twilight
+2324,5,addtocart,Gatsby
+25214,1,view,Hunger Games
+22602,5,view,Gatsby
+18313,3,transaction,Twilight
+37284,5,view,Gatsby
+29703,4,addtocart,Mockingbird
+32635,3,view,Twilight
+21676,5,view,Gatsby
+49298,5,view,Gatsby
+17984,1,addtocart,Hunger Games
+19984,3,view,Twilight
+45493,2,transaction,Harry Potter
+6630,2,view,Harry Potter
+26145,1,view,Hunger Games
+48559,4,view,Mockingbird
+10944,5,view,Gatsby
+52036,1,view,Hunger Games
+37284,1,addtocart,Hunger Games
+48559,4,addtocart,Mockingbird
+33716,5,view,Gatsby
+47800,5,view,Gatsby
+50133,2,addtocart,Harry Potter
+13776,4,addtocart,Mockingbird
+47476,2,view,Harry Potter
+30944,4,addtocart,Mockingbird
+13282,2,addtocart,Harry Potter
+22602,1,view,Hunger Games
+46421,2,view,Harry Potter
+19526,2,view,Harry Potter
+6342,2,addtocart,Harry Potter
+17228,4,addtocart,Mockingbird
+11408,2,view,Harry Potter
+47746,3,view,Twilight
+15604,4,addtocart,Mockingbird
+45493,2,addtocart,Harry Potter
+21487,4,view,Mockingbird
+314,3,view,Harry Potter
+25840,4,addtocart,Mockingbird
+25840,5,view,Gatsby
+24326,3,view,Twilight
+43985,4,view,Mockingbird
+32748,5,addtocart,Gatsby
+21676,2,view,Harry Potter
+36240,3,view,Twilight
+10249,3,addtocart,Twilight
+28767,3,addtocart,Twilight
+11408,3,view,Twilight
+43602,3,view,Twilight
+17663,4,view,Mockingbird
+13034,4,addtocart,Mockingbird
+44243,1,view,Hunger Games
+17228,5,view,Gatsby
+21228,4,view,Mockingbird
+6063,3,view,Twilight
+30681,1,addtocart,Hunger Games
+32055,2,addtocart,Harry Potter
+11868,2,view,Harry Potter
+18313,4,addtocart,Mockingbird
+46482,5,view,Gatsby
+24326,4,view,Mockingbird
+21676,4,addtocart,Mockingbird
+21733,2,addtocart,Harry Potter
+13794,4,view,Mockingbird
+2487,4,addtocart,Mockingbird
+28767,4,view,Mockingbird
+5436,4,view,Mockingbird
+33697,5,view,Gatsby
+21228,1,view,Hunger Games
+32635,1,addtocart,Hunger Games
+13544,1,addtocart,Hunger Games
+11285,4,view,Mockingbird
+49298,2,view,Harry Potter
+25182,2,addtocart,Harry Potter
+53292,2,addtocart,Harry Potter
+2900,3,addtocart,Twilight
+17663,4,transaction,Mockingbird
+11691,5,addtocart,Gatsby
+46977,3,view,Twilight
+10944,1,addtocart,Hunger Games
+25182,3,view,Twilight
+11692,2,view,Harry Potter
+6634,3,view,Twilight
+15494,1,addtocart,Hunger Games
+19724,3,view,Twilight
+19729,2,view,Harry Potter
+33716,3,view,Twilight
+37855,3,view,Twilight
+13776,5,view,Gatsby
+24499,5,addtocart,Gatsby
+6630,3,view,Twilight
+21733,4,addtocart,Mockingbird
+51838,1,addtocart,Hunger Games
+21733,2,addtocart,Harry Potter
+11927,1,view,Hunger Games
+30313,2,view,Harry Potter
+26629,3,view,Twilight
+11692,5,view,Gatsby
+33697,4,view,Mockingbird
+44243,4,view,Mockingbird
+37834,2,addtocart,Harry Potter
+45493,5,addtocart,Gatsby
+39423,1,addtocart,Hunger Games
+11868,2,addtocart,Harry Potter
+45493,5,view,Gatsby
+10111,2,addtocart,Harry Potter
+14603,4,addtocart,Mockingbird
+2487,4,view,Mockingbird
+24834,2,addtocart,Harry Potter
+32923,4,transaction,Mockingbird
+21217,2,view,Harry Potter
+24834,1,view,Hunger Games
+9731,2,view,Harry Potter
+20848,1,transaction,Hunger Games
+3922,2,view,Harry Potter
+1169,2,view,Hunger Games
+21228,3,view,Twilight
+32923,4,addtocart,Mockingbird
+9731,3,view,Twilight
+18313,5,view,Gatsby
+3662,3,addtocart,Twilight
+10288,2,view,Harry Potter
+23576,4,view,Mockingbird
+314,3,view,Harry Potter
+47746,1,view,Hunger Games
+19724,2,addtocart,Harry Potter
+47800,2,addtocart,Harry Potter
+439,4,view,Twilight
+31001,1,addtocart,Hunger Games
+12476,5,view,Gatsby
+11868,4,view,Mockingbird
+6630,5,addtocart,Gatsby
+5115,4,view,Mockingbird
+47800,2,transaction,Harry Potter
+17434,1,view,Hunger Games
+26629,3,addtocart,Twilight
+15604,4,view,Mockingbird
+12946,5,transaction,Gatsby
+3922,2,view,Harry Potter
+17643,5,view,Gatsby
+19526,4,view,Mockingbird
+26661,4,view,Mockingbird
+11408,2,view,Harry Potter
+47478,2,view,Harry Potter
+5436,2,view,Harry Potter
+30313,4,view,Mockingbird
+50102,3,view,Twilight
+19526,2,addtocart,Harry Potter
+20406,4,view,Mockingbird
+32592,1,view,Hunger Games
+33716,4,view,Mockingbird
+47800,4,addtocart,Mockingbird
+51460,2,addtocart,Harry Potter
+37284,4,view,Mockingbird
+17663,4,addtocart,Mockingbird
+18031,5,view,Gatsby
+30944,4,view,Mockingbird
+32918,2,addtocart,Harry Potter
+51460,4,transaction,Mockingbird
+28767,1,view,Hunger Games
+41074,5,view,Gatsby
+2900,1,view,Hunger Games
+45493,1,view,Hunger Games
+26629,4,addtocart,Mockingbird
+49289,3,addtocart,Twilight
+3922,4,addtocart,Mockingbird
+33697,5,view,Gatsby
+2077,1,addtocart,Hunger Games
+12471,3,view,Twilight
+51838,4,view,Mockingbird
+16913,3,addtocart,Twilight
+26629,4,view,Mockingbird
+10751,2,view,Harry Potter
+6342,4,view,Mockingbird
+11692,4,view,Mockingbird
+26629,2,view,Harry Potter
+19942,2,addtocart,Harry Potter
+21228,3,view,Twilight
+24326,4,transaction,Mockingbird
+26579,4,view,Mockingbird
+37834,3,addtocart,Twilight
+32745,4,view,Mockingbird
+10246,1,addtocart,Hunger Games
+13034,5,view,Gatsby
+11927,5,transaction,Gatsby
+33872,5,view,Gatsby
+23612,2,addtocart,Harry Potter
+5436,2,view,Harry Potter
+5115,4,view,Mockingbird
+18031,5,addtocart,Gatsby
+42508,2,view,Harry Potter
+10111,2,addtocart,Harry Potter
+37834,4,view,Mockingbird
+29819,5,view,Gatsby
+25164,1,view,Hunger Games
+28767,1,transaction,Hunger Games
+29123,4,view,Mockingbird
+30313,4,addtocart,Mockingbird
+37284,4,view,Mockingbird
+45269,2,addtocart,Harry Potter
+28158,5,addtocart,Gatsby
+33065,2,view,Harry Potter
+1185,1,view,Hunger Games
+46482,5,transaction,Gatsby
+49288,3,view,Twilight
+3739,5,view,Gatsby
+12476,5,addtocart,Gatsby
+17663,1,view,Hunger Games
+23576,1,addtocart,Hunger Games
+32338,4,view,Mockingbird
+16377,1,addtocart,Hunger Games
+29703,1,view,Hunger Games
+32918,4,addtocart,Mockingbird
+17663,5,addtocart,Gatsby
+26661,1,view,Hunger Games
+50101,3,view,Twilight
+44397,5,addtocart,Gatsby
+10944,1,view,Hunger Games
+42404,3,addtocart,Twilight
+18313,1,transaction,Hunger Games
+30681,2,view,Harry Potter
+13034,5,view,Gatsby
+13282,3,addtocart,Twilight
+13274,3,addtocart,Twilight
+33716,1,view,Hunger Games
+3922,2,transaction,Harry Potter
+33872,5,view,Gatsby
+45269,5,view,Gatsby
+47476,1,addtocart,Hunger Games
+10111,5,view,Gatsby
+32592,4,view,Mockingbird
+42404,1,view,Hunger Games
+47746,1,addtocart,Hunger Games
+11927,5,view,Gatsby
+2487,5,view,Gatsby
+27499,5,addtocart,Gatsby
+47478,2,view,Harry Potter
+25840,4,view,Mockingbird
+9771,3,view,Twilight
+49298,2,addtocart,Harry Potter
+32748,1,addtocart,Hunger Games
+53245,4,transaction,Mockingbird
+44397,4,addtocart,Mockingbird
+30283,4,view,Mockingbird
+5115,2,addtocart,Harry Potter
+50133,3,addtocart,Twilight
+9731,3,view,Twilight
+21676,5,addtocart,Gatsby
+48559,5,addtocart,Gatsby
+10335,1,view,Hunger Games
+38475,3,view,Twilight
+24845,1,view,Hunger Games
+3022,5,view,Gatsby
+46421,2,addtocart,Harry Potter
+47730,4,view,Mockingbird
+27499,4,view,Mockingbird
+33065,2,view,Harry Potter
+47800,4,addtocart,Mockingbird
+37834,3,addtocart,Twilight
+47746,3,addtocart,Twilight
+9771,3,view,Twilight
+10610,1,view,Hunger Games
+29703,1,transaction,Hunger Games
+7001,3,view,Twilight
+7001,3,addtocart,Twilight
+52036,5,view,Gatsby
+30944,4,view,Mockingbird
+30681,3,view,Twilight
+21487,5,addtocart,Gatsby
+28767,4,view,Mockingbird
+51166,5,addtocart,Gatsby
+36099,2,addtocart,Harry Potter
+43985,3,view,Twilight
+24326,4,view,Mockingbird
+30944,2,addtocart,Harry Potter
+15547,5,view,Gatsby
+21487,1,addtocart,Hunger Games
+16913,3,view,Twilight
+51166,5,view,Gatsby
+21676,4,view,Mockingbird
+5272,3,addtocart,Twilight
+53245,1,view,Hunger Games
+11868,5,view,Gatsby
+37834,1,addtocart,Hunger Games
+1169,1,view,Hunger Games
+20467,1,view,Hunger Games
+30681,3,addtocart,Twilight
+3662,5,addtocart,Gatsby
+48482,2,view,Harry Potter
+49295,3,addtocart,Twilight
+26661,4,transaction,Mockingbird
+48687,5,view,Gatsby
+10249,3,addtocart,Twilight
+50104,1,addtocart,Hunger Games
+50101,3,transaction,Twilight
+32923,4,view,Mockingbird
+45269,5,addtocart,Gatsby
+50104,1,view,Hunger Games
+17643,5,view,Gatsby
+33697,5,addtocart,Gatsby
+23612,3,view,Twilight
+18313,1,view,Hunger Games
+33065,2,transaction,Harry Potter
+50104,3,transaction,Twilight
+21676,2,view,Harry Potter
+3922,1,view,Hunger Games
+21228,3,addtocart,Twilight
+37834,2,view,Harry Potter
+45554,5,transaction,Gatsby
+32305,4,view,Mockingbird
+50102,4,view,Mockingbird
+13544,1,view,Hunger Games
+18313,1,addtocart,Hunger Games
+2077,3,view,Twilight
+50102,3,view,Twilight
+18313,2,view,Harry Potter
+51460,1,addtocart,Hunger Games
+11927,3,addtocart,Twilight
+2077,3,view,Twilight
+19729,4,addtocart,Mockingbird
+45493,2,view,Harry Potter
+3022,2,view,Harry Potter
+24834,1,view,Hunger Games
+19526,5,addtocart,Gatsby
+17434,1,view,Hunger Games
+11854,1,view,Hunger Games
+46421,2,view,Harry Potter
+43602,3,addtocart,Twilight
+37834,2,view,Harry Potter
+33697,1,view,Hunger Games
+13544,1,view,Hunger Games
+48482,2,addtocart,Harry Potter
+20467,5,view,Gatsby
+25164,5,view,Gatsby
+44397,1,transaction,Hunger Games
+13776,5,addtocart,Gatsby
+47476,1,view,Hunger Games
+18361,2,view,Harry Potter
+18313,3,view,Twilight
+37284,1,addtocart,Hunger Games
+17663,2,transaction,Harry Potter
+25182,1,addtocart,Hunger Games
+47746,1,transaction,Hunger Games
+8167,2,view,Harry Potter
+20406,5,transaction,Gatsby
+48687,5,addtocart,Gatsby
+32748,4,addtocart,Mockingbird
+14192,4,view,Mockingbird
+19724,5,view,Gatsby
+21217,2,addtocart,Harry Potter
+5115,3,view,Twilight
+1952,5,view,Gatsby
+17663,2,view,Harry Potter
+50102,4,addtocart,Mockingbird
+38082,1,addtocart,Hunger Games
+5115,5,view,Gatsby
+2324,5,transaction,Gatsby
+32745,4,view,Mockingbird
+11945,5,view,Gatsby
+5885,3,addtocart,Twilight
+48687,4,addtocart,Mockingbird
+5115,4,addtocart,Mockingbird
+5461,1,view,Hunger Games
+3662,1,view,Hunger Games
+12471,1,transaction,Hunger Games
+21487,2,view,Harry Potter
+12946,2,transaction,Harry Potter
+10140,1,view,Hunger Games
+11945,4,transaction,Mockingbird
+45554,5,view,Gatsby
+6342,2,view,Harry Potter
+38082,1,transaction,Hunger Games
+25182,4,view,Mockingbird
+47800,1,addtocart,Hunger Games
+45269,1,view,Hunger Games
+18313,2,view,Harry Potter
+2324,4,view,Mockingbird
+11927,2,transaction,Harry Potter
+14546,4,view,Mockingbird
+36099,3,addtocart,Twilight
+30944,5,view,Gatsby
+28767,1,view,Hunger Games
+25182,2,view,Harry Potter
+5461,1,addtocart,Hunger Games
+52036,2,view,Harry Potter
+46139,5,view,Gatsby
+314,5,view,Mockingbird
+11691,5,view,Gatsby
+11692,5,addtocart,Gatsby
+17643,4,addtocart,Mockingbird
+1952,5,addtocart,Gatsby
+47800,1,addtocart,Hunger Games
+27934,4,addtocart,Mockingbird
+21733,4,addtocart,Mockingbird
+49298,3,view,Twilight
+39423,5,view,Gatsby
+29703,1,view,Hunger Games
+19729,5,view,Gatsby
+20848,1,view,Hunger Games
+32923,5,view,Gatsby
+13274,3,view,Twilight
+38080,1,addtocart,Hunger Games
+1185,1,view,Hunger Games
+11927,3,view,Twilight
+21487,4,view,Mockingbird
+24834,1,view,Hunger Games
+48559,5,view,Gatsby
+46482,5,view,Gatsby
+52036,5,view,Gatsby
+13274,3,view,Twilight
+45269,4,addtocart,Mockingbird
+21487,4,transaction,Mockingbird
+10146,1,addtocart,Hunger Games
+53292,3,addtocart,Twilight
+24389,1,addtocart,Hunger Games
+19942,2,transaction,Harry Potter
+5379,1,transaction,Hunger Games
+23612,1,addtocart,Hunger Games
+51460,4,view,Mockingbird
+13034,4,view,Mockingbird
+33872,1,transaction,Hunger Games
+53292,2,view,Harry Potter
+44243,1,view,Hunger Games
+13282,2,transaction,Harry Potter
+5885,1,view,Hunger Games
+26661,5,view,Gatsby
+45493,1,view,Hunger Games
+48482,3,view,Twilight
+48482,1,view,Hunger Games
+36240,3,view,Twilight
+50133,3,view,Twilight
+42404,5,view,Gatsby
+14603,5,addtocart,Gatsby
+10509,3,view,Twilight
+46421,5,addtocart,Gatsby
+50342,1,view,Hunger Games
+42810,2,view,Harry Potter
+37834,4,addtocart,Mockingbird
+5461,2,view,Harry Potter
+30313,2,view,Harry Potter
+38082,1,view,Hunger Games
+26661,1,addtocart,Hunger Games
+25164,5,addtocart,Gatsby
+45493,2,view,Harry Potter
+20848,3,addtocart,Twilight
+3739,4,view,Mockingbird
+24326,3,view,Twilight
+588,1,view,Hunger Games
+25182,1,view,Hunger Games
+53292,2,view,Harry Potter
+26145,1,addtocart,Hunger Games
+13794,4,addtocart,Mockingbird
+14603,5,view,Gatsby
+12946,5,addtocart,Gatsby
+19724,2,transaction,Harry Potter
+50104,2,addtocart,Harry Potter
+12946,4,addtocart,Mockingbird
+21733,4,view,Mockingbird
+47476,1,view,Hunger Games
+21217,5,view,Gatsby
+10944,1,view,Hunger Games
+12874,5,addtocart,Gatsby
+23576,4,view,Mockingbird
+588,1,view,Hunger Games
+11854,3,view,Twilight
+22602,1,view,Hunger Games
+13544,1,transaction,Hunger Games
+33716,3,addtocart,Twilight
+27834,4,transaction,Mockingbird
+16913,1,addtocart,Hunger Games
+47730,4,view,Mockingbird
+30681,1,view,Hunger Games
+2487,1,addtocart,Hunger Games
+32338,4,view,Mockingbird
+5115,3,view,Twilight
+16377,1,view,Hunger Games
+50133,2,addtocart,Harry Potter
+37834,1,transaction,Hunger Games
+27499,2,view,Harry Potter
+27499,4,addtocart,Mockingbird
+46482,4,transaction,Mockingbird
+17434,1,addtocart,Hunger Games
+47746,1,view,Hunger Games
+439,4,transaction,Twilight
+8167,2,view,Harry Potter
+2324,5,view,Gatsby
+2487,3,addtocart,Twilight
+50104,2,view,Harry Potter
+17663,2,addtocart,Harry Potter
+21676,4,view,Mockingbird
+32918,3,view,Twilight
+10944,5,addtocart,Gatsby
+14603,4,view,Mockingbird
+10944,2,view,Harry Potter
+51460,4,view,Mockingbird
+10751,2,view,Harry Potter
+45269,4,view,Mockingbird
+47800,4,transaction,Mockingbird
+16913,1,addtocart,Hunger Games
+32745,4,addtocart,Mockingbird
+26629,2,addtocart,Harry Potter
+32748,1,view,Hunger Games
+30313,4,addtocart,Mockingbird
+12874,2,view,Harry Potter
+32592,2,view,Harry Potter
+11285,3,view,Twilight
+28767,5,view,Gatsby
+11945,5,view,Gatsby
+13776,4,addtocart,Mockingbird
+25164,2,addtocart,Harry Potter
+32592,1,view,Hunger Games
+27499,5,addtocart,Gatsby
+15604,4,view,Mockingbird
+25182,4,transaction,Mockingbird
+27499,2,view,Harry Potter
+14372,2,view,Harry Potter
+43985,4,transaction,Mockingbird
+27499,5,view,Gatsby
+30313,2,transaction,Harry Potter
+26629,1,view,Hunger Games
+48687,4,transaction,Mockingbird
+17663,1,view,Hunger Games
+33716,1,addtocart,Hunger Games
+11692,5,addtocart,Gatsby
+45493,1,transaction,Hunger Games
+50342,1,view,Hunger Games
+5115,3,addtocart,Twilight
+11691,2,addtocart,Harry Potter
+11854,1,view,Hunger Games
+12471,1,addtocart,Hunger Games
+2900,1,addtocart,Hunger Games
+13776,4,view,Mockingbird
+7563,1,addtocart,Hunger Games
+47800,4,view,Mockingbird
+22602,5,addtocart,Gatsby
+5885,3,view,Twilight
+33697,2,addtocart,Harry Potter
+6630,4,view,Mockingbird
+49297,3,view,Twilight
+30681,4,addtocart,Mockingbird
+26398,3,view,Twilight
+11692,4,view,Mockingbird
+36099,3,view,Twilight
+21228,2,view,Harry Potter
+14207,4,view,Mockingbird
+37834,1,view,Hunger Games
+47800,5,view,Gatsby
+7563,1,view,Hunger Games
+33065,1,view,Hunger Games
+6634,3,view,Twilight
+25214,1,view,Hunger Games
+17984,4,view,Mockingbird
+32918,3,addtocart,Twilight
+33872,5,addtocart,Gatsby
+50096,2,transaction,Harry Potter
+20848,3,view,Twilight
+11868,2,addtocart,Harry Potter
+32923,4,view,Mockingbird
+32592,1,addtocart,Hunger Games
+21228,1,addtocart,Hunger Games
+32918,4,view,Mockingbird
+48482,3,view,Twilight
+51460,3,view,Twilight
+32305,1,view,Hunger Games
+8167,5,addtocart,Gatsby
+30944,5,view,Gatsby
+36099,4,addtocart,Mockingbird
+22602,3,view,Twilight
+49289,3,view,Twilight
+17663,3,addtocart,Twilight
+9246,4,view,Mockingbird
+48687,5,view,Gatsby
+33697,5,transaction,Gatsby
+10140,3,view,Twilight
+8178,4,addtocart,Mockingbird
+14603,2,addtocart,Harry Potter
+49288,3,transaction,Twilight
+29703,5,view,Gatsby
+32305,2,addtocart,Harry Potter
+17984,1,view,Hunger Games
+27834,5,view,Gatsby
+24499,2,view,Harry Potter
+39423,4,view,Mockingbird
+37284,1,transaction,Hunger Games
+32305,4,view,Mockingbird
+439,1,view,Hunger Games
+52036,5,view,Gatsby
+5436,4,transaction,Mockingbird
+11691,5,transaction,Gatsby
+32745,4,view,Mockingbird
+13544,1,view,Hunger Games
+51460,4,addtocart,Mockingbird
+11599,3,addtocart,Twilight
+19729,4,addtocart,Mockingbird
+10246,3,view,Twilight
+19526,4,view,Mockingbird
+21217,2,view,Harry Potter
+27834,4,view,Mockingbird
+10610,2,transaction,Harry Potter
+53292,4,addtocart,Mockingbird
+1169,4,view,Mockingbird
+21487,5,transaction,Gatsby
+10335,1,addtocart,Hunger Games
+28767,4,view,Mockingbird
+32592,4,addtocart,Mockingbird
+25182,1,addtocart,Hunger Games
+53292,3,view,Twilight
+33065,4,addtocart,Mockingbird
+5436,2,transaction,Harry Potter
+29703,3,view,Twilight
+10246,1,addtocart,Hunger Games
+17663,3,view,Twilight
+14546,2,transaction,Harry Potter
+49298,2,transaction,Harry Potter
+46482,4,addtocart,Mockingbird
+17434,2,transaction,Harry Potter
+19724,3,view,Twilight
+53245,4,addtocart,Mockingbird
+6630,2,addtocart,Harry Potter
+49288,3,view,Twilight
+51460,2,view,Harry Potter
+24326,3,addtocart,Twilight
+33716,2,view,Harry Potter
+3739,4,transaction,Mockingbird
+5115,5,addtocart,Gatsby
+36240,3,view,Twilight
+18313,1,addtocart,Hunger Games
+25164,1,addtocart,Hunger Games
+38080,1,view,Hunger Games
+37855,3,view,Twilight
+33065,4,view,Mockingbird
+30313,4,view,Mockingbird
+33065,3,view,Twilight
+11927,1,addtocart,Hunger Games
+11692,4,addtocart,Mockingbird
+45493,5,transaction,Gatsby
+42404,4,addtocart,Mockingbird
+3022,2,addtocart,Harry Potter
+2324,4,addtocart,Mockingbird
+12946,2,view,Harry Potter
+8167,4,view,Mockingbird
+33697,5,view,Gatsby
+21228,5,view,Gatsby
+13794,5,view,Gatsby
+38080,3,addtocart,Twilight
+21733,3,view,Twilight
+32748,5,view,Gatsby
+12946,3,view,Twilight
+48559,5,view,Gatsby
+14546,2,view,Harry Potter
+49298,1,view,Hunger Games
+10111,5,view,Gatsby
+45269,1,view,Hunger Games
+3739,5,view,Gatsby
+5461,3,view,Twilight
+44243,4,addtocart,Mockingbird
+42404,3,view,Twilight
+14546,2,view,Harry Potter
+27499,5,view,Gatsby
+18361,2,view,Harry Potter
+17984,2,view,Harry Potter
+47800,1,transaction,Hunger Games
+24499,1,view,Hunger Games
+36099,5,addtocart,Gatsby
+32305,2,view,Harry Potter
+14192,4,view,Mockingbird
+22602,1,addtocart,Hunger Games
+6630,1,view,Hunger Games
+52036,2,addtocart,Harry Potter
+5115,5,view,Gatsby
+20467,4,view,Mockingbird
+20406,5,addtocart,Gatsby
+25164,2,view,Harry Potter
+12874,5,view,Gatsby
+26629,1,view,Hunger Games
+12381,4,transaction,Mockingbird
+50096,2,view,Harry Potter
+21733,2,view,Harry Potter
+11945,4,view,Mockingbird
+13776,4,view,Mockingbird
+38080,1,addtocart,Hunger Games
+45493,1,view,Hunger Games
+25164,4,view,Mockingbird
+32592,1,view,Hunger Games
+24326,1,addtocart,Hunger Games
+32592,3,view,Twilight
+33697,1,addtocart,Hunger Games
+51166,1,view,Hunger Games
+11692,4,transaction,Mockingbird
+16377,3,view,Twilight
+33872,4,view,Mockingbird
+11868,5,addtocart,Gatsby
+19984,3,view,Twilight
+33872,1,view,Hunger Games
+19942,3,addtocart,Twilight
+33716,1,transaction,Hunger Games
+21217,5,addtocart,Gatsby
+39423,1,view,Hunger Games
+24389,3,view,Twilight
+47411,4,view,Mockingbird
+19724,5,view,Gatsby
+53245,1,addtocart,Hunger Games
+3922,5,view,Gatsby
+18361,2,addtocart,Harry Potter
+46139,5,view,Gatsby
+11868,2,view,Harry Potter
+22602,3,view,Twilight
+48559,5,view,Gatsby
+27499,4,view,Mockingbird
+21228,1,addtocart,Hunger Games
+25840,5,view,Gatsby
+26579,4,view,Mockingbird
+19729,2,addtocart,Harry Potter
+23612,3,addtocart,Twilight
+32305,4,view,Mockingbird
+32055,1,view,Hunger Games
+10944,1,transaction,Hunger Games
+27934,4,view,Mockingbird
+10751,2,view,Harry Potter
+15604,2,addtocart,Harry Potter
+32748,2,addtocart,Harry Potter
+20406,5,addtocart,Gatsby
+10509,2,view,Harry Potter
+12381,4,addtocart,Mockingbird
+7001,5,view,Gatsby
+50104,2,view,Harry Potter
+50104,3,view,Twilight
+30944,4,addtocart,Mockingbird
+6630,1,addtocart,Hunger Games
+13282,3,transaction,Twilight
+30681,5,addtocart,Gatsby
+6342,5,transaction,Gatsby
+18031,5,addtocart,Gatsby
+3022,2,addtocart,Harry Potter
+26629,5,addtocart,Gatsby
+32338,4,addtocart,Mockingbird
+53245,4,view,Mockingbird
+17663,2,addtocart,Harry Potter
+5272,3,addtocart,Twilight
+11691,2,view,Harry Potter
+39423,1,view,Hunger Games
+9246,4,addtocart,Mockingbird
+29703,5,transaction,Gatsby
+6630,1,view,Hunger Games
+47800,1,view,Hunger Games
+50104,3,view,Twilight
+21487,2,view,Harry Potter
+45493,1,addtocart,Hunger Games
+11927,3,addtocart,Twilight
+17228,4,transaction,Mockingbird
+1169,5,view,Gatsby
+2900,5,addtocart,Gatsby
+48687,4,addtocart,Mockingbird
+25840,5,addtocart,Gatsby
+9731,2,view,Harry Potter
+18031,4,transaction,Mockingbird
+34688,5,view,Gatsby
+33890,1,view,Hunger Games
+51460,1,view,Hunger Games
+18031,3,view,Twilight
+25182,2,view,Harry Potter
+10249,3,view,Twilight
+21228,2,view,Harry Potter
+10140,2,view,Harry Potter
+11599,3,view,Twilight
+37834,3,view,Twilight
+26398,3,view,Twilight
+39423,4,addtocart,Mockingbird
+44397,4,view,Mockingbird
+32635,3,addtocart,Twilight
+11691,4,transaction,Mockingbird
+51838,1,transaction,Hunger Games
+27834,5,addtocart,Gatsby
+49298,1,addtocart,Hunger Games
+10111,5,addtocart,Gatsby
+49295,3,view,Twilight
+32748,2,transaction,Harry Potter
+23612,1,view,Hunger Games
+11927,5,view,Gatsby
+49297,3,addtocart,Twilight
+23576,2,addtocart,Harry Potter
+49289,3,view,Twilight
+37284,1,view,Hunger Games
+23612,2,addtocart,Harry Potter
+34688,4,view,Mockingbird
+50101,3,addtocart,Twilight
+6342,5,view,Gatsby
+588,1,addtocart,Hunger Games
+24834,2,view,Harry Potter
+44397,5,transaction,Gatsby
+38798,5,view,Gatsby
+32055,1,addtocart,Hunger Games
+33872,2,addtocart,Harry Potter
+5115,3,addtocart,Twilight
+10140,4,view,Mockingbird
+47476,1,view,Hunger Games
+12946,4,view,Mockingbird
+38082,3,view,Twilight
+22602,2,view,Harry Potter
+20076,1,view,Hunger Games
+49298,4,transaction,Mockingbird
+6630,3,transaction,Twilight
+38082,1,view,Hunger Games
+2324,4,view,Mockingbird
+18031,5,view,Gatsby
+3662,3,view,Twilight
+5272,3,view,Twilight
+12874,5,view,Gatsby
+49298,4,view,Mockingbird
+42404,2,addtocart,Harry Potter
+17228,5,addtocart,Gatsby
+30681,1,addtocart,Hunger Games
+28767,2,addtocart,Harry Potter
+32305,2,addtocart,Harry Potter
+23576,4,view,Mockingbird
+18031,5,transaction,Gatsby
+10402,5,view,Gatsby
+10140,2,view,Harry Potter
+37284,1,view,Hunger Games
+26629,4,view,Mockingbird
+23576,1,view,Hunger Games
+14603,2,view,Harry Potter
+32305,4,transaction,Mockingbird
+21487,1,view,Hunger Games
+1952,5,view,Gatsby
+13282,3,view,Twilight
+44243,5,view,Gatsby
+30944,2,view,Harry Potter
+26579,4,addtocart,Mockingbird
+2324,5,view,Gatsby
+24499,5,view,Gatsby
+36099,4,addtocart,Mockingbird
+14546,3,addtocart,Twilight
+14546,4,addtocart,Mockingbird
+25164,1,view,Hunger Games
+50104,3,addtocart,Twilight
+10246,5,view,Gatsby
+46421,5,view,Gatsby
+6342,4,view,Mockingbird
+32592,4,transaction,Mockingbird
+11691,5,addtocart,Gatsby
+25182,5,view,Gatsby
+26629,2,view,Harry Potter
+17984,2,view,Harry Potter
+19526,2,view,Harry Potter
+38082,2,transaction,Harry Potter
+21487,1,addtocart,Hunger Games
+18031,3,view,Twilight
+51838,2,view,Harry Potter
+50104,3,addtocart,Twilight
+45269,2,view,Harry Potter
+15494,1,transaction,Hunger Games
+50133,2,transaction,Harry Potter
+13282,1,transaction,Hunger Games
+18031,1,transaction,Hunger Games
+27499,4,transaction,Mockingbird
+18313,3,addtocart,Twilight
+9731,3,view,Twilight
+46977,1,view,Hunger Games
+17984,4,addtocart,Mockingbird
+32635,3,view,Twilight
+22602,5,view,Gatsby
+5461,5,view,Gatsby
+21733,5,view,Gatsby
+14546,3,view,Twilight
+48559,2,transaction,Harry Potter
+21733,5,addtocart,Gatsby
+38080,3,view,Twilight
+33716,4,view,Mockingbird
+6063,2,view,Harry Potter
+3922,4,view,Mockingbird
+26629,2,addtocart,Harry Potter
+7001,5,view,Gatsby
+21228,4,addtocart,Mockingbird
+10610,2,view,Harry Potter
+32923,5,addtocart,Gatsby
+6630,3,view,Twilight
+25164,5,view,Gatsby
+17434,3,view,Twilight
+5461,3,view,Twilight
+29703,5,view,Gatsby
+21676,2,addtocart,Harry Potter
+53292,4,view,Mockingbird
+10111,2,view,Harry Potter
+48482,2,view,Harry Potter
+10944,5,view,Gatsby
+50104,5,view,Gatsby
+12471,1,view,Hunger Games
+26629,3,view,Twilight
+18313,2,transaction,Harry Potter
+33872,1,addtocart,Hunger Games
+32748,2,addtocart,Harry Potter
+49295,3,transaction,Twilight
+51166,2,transaction,Harry Potter
+32923,1,view,Hunger Games
+20406,5,view,Gatsby
+29703,1,addtocart,Hunger Games
+21217,4,view,Mockingbird
+33697,4,view,Mockingbird
+30944,2,view,Harry Potter
+46977,1,addtocart,Hunger Games
+44243,1,view,Hunger Games
+51166,5,view,Gatsby
+10610,2,addtocart,Harry Potter
+21487,1,view,Hunger Games
+26661,1,addtocart,Hunger Games
+14546,2,view,Harry Potter
+14207,4,view,Mockingbird
+50133,2,view,Harry Potter
+17228,5,view,Gatsby
+53292,4,addtocart,Mockingbird
+47478,2,view,Harry Potter
+51166,2,addtocart,Harry Potter
+5885,1,addtocart,Hunger Games
+46977,2,addtocart,Harry Potter
+30681,2,view,Harry Potter
+2900,1,view,Hunger Games
+26145,1,view,Hunger Games
+52036,2,view,Harry Potter
+28767,2,view,Harry Potter
+50104,2,transaction,Harry Potter
+33716,1,view,Hunger Games
+34688,5,view,Gatsby
+50133,3,view,Twilight
+36099,4,view,Mockingbird
+51166,5,view,Gatsby
+24389,3,view,Twilight
+42404,1,addtocart,Hunger Games
+26661,4,view,Mockingbird
+6630,2,view,Harry Potter
+9246,5,view,Gatsby
+10288,2,transaction,Harry Potter
+26145,2,addtocart,Harry Potter
+45493,5,view,Gatsby
+588,1,transaction,Hunger Games
+33065,5,view,Gatsby
+33716,1,view,Hunger Games
+20076,1,addtocart,Hunger Games
+13282,1,view,Hunger Games
+19729,5,view,Gatsby
+18313,4,addtocart,Mockingbird
+32305,1,transaction,Hunger Games
+21217,5,view,Gatsby
+20076,1,view,Hunger Games
+5436,4,addtocart,Mockingbird
+27834,4,addtocart,Mockingbird
+19942,3,addtocart,Twilight
+32338,4,view,Mockingbird
+33716,5,view,Gatsby
+18031,4,view,Mockingbird
+47746,1,addtocart,Hunger Games
+28158,5,addtocart,Gatsby
+48482,1,view,Hunger Games
+11945,4,addtocart,Mockingbird
+11691,4,view,Mockingbird
+3739,5,addtocart,Gatsby
+42810,2,view,Harry Potter
+32305,4,addtocart,Mockingbird
+25182,5,addtocart,Gatsby
+18313,1,view,Hunger Games
+36099,2,transaction,Harry Potter
+32305,2,transaction,Harry Potter
+11408,2,transaction,Harry Potter
+27834,4,addtocart,Mockingbird
+42404,3,addtocart,Twilight
+32055,1,view,Hunger Games
+30681,2,addtocart,Harry Potter
+50104,2,view,Harry Potter
+43602,3,addtocart,Twilight
+49298,4,view,Mockingbird
+50096,2,view,Harry Potter
+27834,5,view,Gatsby
+23576,5,addtocart,Gatsby
+17434,1,transaction,Hunger Games
+5461,2,addtocart,Harry Potter
+51838,4,view,Mockingbird
+48482,4,view,Mockingbird
+9771,3,view,Twilight
+45269,1,addtocart,Hunger Games
+2900,1,addtocart,Hunger Games
+10140,3,addtocart,Twilight
+17434,3,view,Twilight
+32635,5,view,Gatsby
+17434,2,addtocart,Harry Potter
+24845,1,addtocart,Hunger Games
+23576,1,view,Hunger Games
+48482,1,addtocart,Hunger Games
+19942,3,view,Twilight
+45493,2,addtocart,Harry Potter
+33697,4,view,Mockingbird
+11599,3,view,Twilight
+32918,2,view,Harry Potter
+25164,2,view,Harry Potter
+3662,3,addtocart,Twilight
+37834,1,view,Hunger Games
+2487,5,addtocart,Gatsby
+30681,4,view,Mockingbird
+27934,4,view,Mockingbird
+21733,4,view,Mockingbird
+439,4,view,Twilight
+24499,1,addtocart,Hunger Games
+47800,5,view,Gatsby
+36099,5,view,Gatsby
+53292,3,transaction,Twilight
+6342,5,view,Gatsby
+20467,5,view,Gatsby
+37834,3,view,Twilight
+10335,1,view,Hunger Games
+38475,1,addtocart,Hunger Games
+32635,1,view,Hunger Games
+43985,4,view,Mockingbird
+38475,3,addtocart,Twilight
+32748,4,view,Mockingbird
+51166,1,addtocart,Hunger Games
+11285,4,view,Mockingbird
+27934,4,addtocart,Mockingbird
+12946,3,addtocart,Twilight
+28158,1,view,Hunger Games
+13282,1,view,Hunger Games
+27499,2,view,Harry Potter
+10140,4,addtocart,Mockingbird
+26661,5,addtocart,Gatsby
+46421,5,view,Gatsby
+19724,4,view,Mockingbird
+13282,2,view,Harry Potter
+32338,5,addtocart,Gatsby
+17663,5,view,Gatsby
+5461,5,addtocart,Gatsby
+8178,4,view,Mockingbird
+2324,5,addtocart,Gatsby
+47800,4,view,Mockingbird
+10944,1,addtocart,Hunger Games
+11927,5,addtocart,Gatsby
+21217,5,addtocart,Gatsby
+17984,1,view,Hunger Games
+21228,3,view,Twilight
+20782,3,view,Twilight
+30681,3,view,Twilight
+3662,1,view,Hunger Games
+46482,4,view,Mockingbird
+51460,4,view,Mockingbird
+9246,4,addtocart,Mockingbird
+38475,3,view,Twilight
+6630,2,view,Harry Potter
+37284,5,view,Gatsby
+30681,3,addtocart,Twilight
+46977,2,view,Harry Potter
+19526,5,view,Gatsby
+34688,4,view,Mockingbird
+19729,4,view,Mockingbird
+12874,4,transaction,Mockingbird
+7001,3,view,Twilight
+10509,2,view,Harry Potter
+24834,1,addtocart,Hunger Games
+46482,5,addtocart,Gatsby
+20848,1,view,Hunger Games
+42404,1,view,Hunger Games
+9246,3,view,Twilight
+33065,1,view,Hunger Games
+32918,3,view,Twilight
+26398,3,view,Twilight
+42404,4,view,Mockingbird
+17663,4,addtocart,Mockingbird
+439,4,addtocart,Twilight
+33065,4,addtocart,Mockingbird
+27499,4,view,Mockingbird
+37834,4,view,Mockingbird
+17663,3,addtocart,Twilight
+19724,5,addtocart,Gatsby
+3922,5,view,Gatsby
+11285,4,addtocart,Mockingbird
+26661,1,view,Hunger Games
+24499,2,view,Harry Potter
+5436,2,addtocart,Harry Potter
+12874,4,addtocart,Mockingbird
+49297,3,addtocart,Twilight
+32305,2,view,Harry Potter
+20782,3,view,Twilight
+32748,1,transaction,Hunger Games
+18313,4,transaction,Mockingbird
+3922,4,view,Mockingbird
+53292,2,view,Harry Potter
+9731,2,view,Harry Potter
+17984,2,addtocart,Harry Potter
+16913,1,view,Hunger Games
+38082,2,addtocart,Harry Potter
+10249,3,view,Twilight
+17434,2,view,Harry Potter
+8167,4,view,Mockingbird
+16913,1,view,Hunger Games
+30313,2,addtocart,Harry Potter
+2487,1,view,Hunger Games
+50101,3,view,Twilight
+24389,3,view,Twilight
+17663,3,view,Twilight
+32748,2,view,Harry Potter
+32748,5,addtocart,Gatsby
+50104,5,addtocart,Gatsby
+28158,5,view,Gatsby
+37855,3,view,Twilight
+23576,1,view,Hunger Games
+23612,2,transaction,Harry Potter
+16913,1,transaction,Hunger Games
+11945,2,view,Harry Potter
+15494,1,addtocart,Hunger Games
+39423,5,view,Gatsby
+32592,2,view,Harry Potter
+44397,4,addtocart,Mockingbird
+47411,4,view,Mockingbird
+45554,5,view,Gatsby
+17566,2,view,Harry Potter
+42404,2,addtocart,Harry Potter
+45493,5,view,Gatsby
+14603,4,addtocart,Mockingbird
+38082,2,view,Harry Potter
+5115,2,view,Harry Potter
+439,1,view,Hunger Games
+20848,1,view,Hunger Games
+11868,4,view,Mockingbird
+32592,4,view,Mockingbird
+33065,5,view,Gatsby
+14603,4,view,Mockingbird
+28767,4,transaction,Mockingbird
+1185,1,addtocart,Hunger Games
+6630,1,view,Hunger Games
+11408,2,addtocart,Harry Potter
+19724,4,view,Mockingbird
+14546,2,addtocart,Harry Potter
+27934,4,view,Mockingbird
+12381,5,addtocart,Gatsby
+33065,1,addtocart,Hunger Games
+42404,1,view,Hunger Games
+49298,4,addtocart,Mockingbird
+44397,5,view,Gatsby
+43985,3,view,Twilight
+23576,2,view,Harry Potter
+25182,1,view,Hunger Games
+21676,5,addtocart,Gatsby
+10111,5,view,Gatsby
+44243,5,view,Gatsby
+36099,2,view,Harry Potter
+49295,3,addtocart,Twilight
+8167,4,transaction,Mockingbird
+32635,1,view,Hunger Games
+5115,2,view,Harry Potter
+19724,4,view,Mockingbird
+25214,1,addtocart,Hunger Games
+48482,2,view,Harry Potter
+47730,4,view,Mockingbird
+21733,2,transaction,Harry Potter
+46977,2,view,Harry Potter
+12381,5,view,Gatsby
+38082,2,view,Harry Potter
+42404,3,view,Twilight
+29703,4,view,Mockingbird
+23576,4,transaction,Mockingbird
+314,5,addtocart,Mockingbird
+31001,1,addtocart,Hunger Games
+30681,5,view,Gatsby
+42404,1,transaction,Hunger Games
+32338,5,view,Gatsby
+50342,1,addtocart,Hunger Games
+32592,4,addtocart,Mockingbird
+51460,2,view,Harry Potter
+5885,1,addtocart,Hunger Games
+21217,4,view,Mockingbird
+5461,5,view,Gatsby
+21487,3,view,Twilight
+25164,2,view,Harry Potter
+48559,2,addtocart,Harry Potter
+43985,1,view,Hunger Games
+6342,2,view,Harry Potter
+49288,3,addtocart,Twilight
+42404,4,addtocart,Mockingbird
+49297,3,view,Twilight
+2077,1,view,Hunger Games
+50104,5,addtocart,Gatsby
+48482,3,addtocart,Twilight
+26661,1,view,Hunger Games
+22602,2,view,Harry Potter
+10140,1,view,Hunger Games
+2487,5,view,Gatsby
+11945,5,view,Gatsby
+5885,3,view,Twilight
+30681,5,view,Gatsby
+2900,3,view,Twilight
+5461,3,view,Twilight
+11868,4,addtocart,Mockingbird
+21228,5,view,Gatsby
+15547,5,view,Gatsby
+17643,4,view,Mockingbird
+12471,3,view,Twilight
+30681,4,transaction,Mockingbird
+39423,4,transaction,Mockingbird
+314,3,addtocart,Harry Potter
+33716,3,view,Twilight
+5379,1,addtocart,Hunger Games
+24499,2,transaction,Harry Potter
+20848,1,addtocart,Hunger Games
+29703,4,view,Mockingbird
+21733,5,addtocart,Gatsby
+3922,2,addtocart,Harry Potter
+52036,2,view,Harry Potter
+13776,4,view,Mockingbird
+50102,4,transaction,Mockingbird
+11945,2,transaction,Harry Potter
+10288,2,addtocart,Harry Potter
+41074,5,view,Gatsby
+18313,2,addtocart,Harry Potter
+36099,5,view,Gatsby
+41074,1,addtocart,Hunger Games
+50096,3,view,Twilight
+314,5,addtocart,Mockingbird
+14546,5,view,Gatsby
+10751,3,view,Twilight
+11945,5,addtocart,Gatsby
+28767,4,addtocart,Mockingbird
+25164,1,addtocart,Hunger Games
+26145,2,addtocart,Harry Potter
+10111,2,view,Harry Potter
+25182,1,transaction,Hunger Games
+53292,4,view,Mockingbird
+30283,4,addtocart,Mockingbird
+10246,1,view,Hunger Games
+10610,1,transaction,Hunger Games
+11927,3,view,Twilight
+47411,4,addtocart,Mockingbird
+11408,3,addtocart,Twilight
+42404,3,transaction,Twilight
+24499,1,view,Hunger Games
+25182,4,view,Mockingbird
+42404,2,view,Harry Potter
+17643,4,transaction,Mockingbird
+23576,2,transaction,Harry Potter
+32592,1,addtocart,Hunger Games
+50133,3,view,Twilight
+14546,5,view,Gatsby
+6630,5,view,Gatsby
+48687,4,view,Mockingbird
+42810,2,addtocart,Harry Potter
+30944,4,view,Mockingbird
+32918,2,transaction,Harry Potter
+33872,2,view,Harry Potter
+12476,5,view,Gatsby
+1169,1,addtocart,Hunger Games
+49298,1,addtocart,Hunger Games
+6630,4,view,Mockingbird
+42404,2,view,Harry Potter
+27834,4,view,Mockingbird
+13034,5,addtocart,Gatsby
+19526,5,addtocart,Gatsby
+21487,5,view,Gatsby
+26629,5,addtocart,Gatsby
+21228,5,addtocart,Gatsby
+43985,4,view,Mockingbird
+21676,5,view,Gatsby
+32923,1,addtocart,Hunger Games
+39423,5,view,Gatsby
+46139,5,view,Gatsby
+51838,5,view,Gatsby
+36099,3,addtocart,Twilight
+24326,4,addtocart,Mockingbird
+439,4,addtocart,Twilight
+30681,2,addtocart,Harry Potter
+49297,3,transaction,Twilight
+3022,2,view,Harry Potter
+38082,3,addtocart,Twilight
+15604,2,view,Harry Potter
+21487,3,view,Twilight
+11927,2,view,Harry Potter
+11692,2,view,Harry Potter
+30681,1,view,Hunger Games
+6342,5,addtocart,Gatsby
+47800,5,addtocart,Gatsby
+48482,1,view,Hunger Games
+2324,5,view,Gatsby
+13282,3,view,Twilight
+10111,5,transaction,Gatsby
+3922,2,view,Harry Potter
+17984,1,addtocart,Hunger Games
+33872,4,view,Mockingbird
+32592,3,view,Twilight
+3662,3,view,Twilight
+30313,4,transaction,Mockingbird
+52036,1,view,Hunger Games
+17228,4,view,Mockingbird
+18313,1,view,Hunger Games
+6342,4,view,Mockingbird
+33065,2,addtocart,Harry Potter
+14546,4,transaction,Mockingbird
+11285,2,view,Harry Potter
+33697,2,view,Harry Potter
+32592,3,addtocart,Twilight
+8370,5,view,Gatsby
+11854,1,addtocart,Hunger Games
+19526,2,view,Harry Potter
+5461,2,view,Harry Potter
+14603,2,view,Harry Potter
+33065,1,view,Hunger Games
+51166,3,view,Twilight
+30944,5,addtocart,Gatsby
+20782,3,addtocart,Twilight
+25182,1,view,Hunger Games
+47800,2,view,Harry Potter
+10146,1,addtocart,Hunger Games
+11927,2,view,Harry Potter
+32305,1,addtocart,Hunger Games
+8167,4,addtocart,Mockingbird
+17663,1,view,Hunger Games
+6342,5,addtocart,Gatsby
+30283,4,addtocart,Mockingbird
+18031,5,view,Gatsby
+18313,5,view,Gatsby
+5115,4,view,Mockingbird
+23576,2,addtocart,Harry Potter
+5379,1,view,Hunger Games
+50104,2,addtocart,Harry Potter
+21228,2,view,Harry Potter
+12946,4,view,Mockingbird
+52036,4,addtocart,Mockingbird
+12476,5,transaction,Gatsby
+45269,4,view,Mockingbird
+48687,2,view,Harry Potter
+21487,3,view,Twilight
+28158,1,addtocart,Hunger Games
+32748,5,view,Gatsby
+29123,4,view,Mockingbird
+14603,4,view,Mockingbird
+11868,4,view,Mockingbird
+48482,2,addtocart,Harry Potter
+50101,3,addtocart,Twilight
+36099,2,view,Harry Potter
+23576,2,view,Harry Potter
+28767,5,view,Gatsby
+51838,5,addtocart,Gatsby
+12874,4,view,Mockingbird
+38475,1,view,Hunger Games
+5885,1,transaction,Hunger Games
+18361,1,view,Hunger Games
+42404,5,view,Gatsby
+21487,1,view,Hunger Games
+37284,1,view,Hunger Games
+34688,4,addtocart,Mockingbird
+314,3,view,Harry Potter
+27499,2,addtocart,Harry Potter
+12874,2,addtocart,Harry Potter
+13794,4,view,Mockingbird
+45269,1,addtocart,Hunger Games
+32918,4,view,Mockingbird
+47800,2,view,Harry Potter
+33065,5,addtocart,Gatsby
+47800,1,view,Hunger Games
+11692,4,view,Mockingbird
+12874,5,view,Gatsby
+5436,2,addtocart,Harry Potter
+25164,4,addtocart,Mockingbird
+10944,2,transaction,Harry Potter
+49298,5,view,Gatsby
+9246,5,view,Gatsby
+49298,2,view,Harry Potter
+2487,4,view,Mockingbird
+12381,4,view,Mockingbird
+27499,2,addtocart,Harry Potter
+38080,3,addtocart,Twilight
+33716,2,view,Harry Potter
+21228,2,addtocart,Harry Potter
+6063,3,transaction,Twilight
+32748,4,view,Mockingbird
+19729,4,view,Mockingbird
+28158,1,view,Hunger Games
+17663,5,view,Gatsby
+33716,2,addtocart,Harry Potter
+13282,1,addtocart,Hunger Games
+44243,4,view,Mockingbird
+32635,5,view,Gatsby
+36099,4,view,Mockingbird
+51460,1,view,Hunger Games
+1169,2,addtocart,Hunger Games
+53292,3,addtocart,Twilight
+33065,4,view,Mockingbird
+14603,2,view,Harry Potter
+49289,3,view,Twilight
+22602,1,view,Hunger Games
+17434,3,addtocart,Twilight
+21487,4,view,Mockingbird
+23612,2,view,Harry Potter
+32592,4,view,Mockingbird
+18031,1,view,Hunger Games
+7001,3,addtocart,Twilight
+25164,4,view,Mockingbird
+50102,3,transaction,Twilight
+19724,4,addtocart,Mockingbird
+5272,3,view,Twilight
+23576,5,view,Gatsby
+33065,1,addtocart,Hunger Games
+10944,2,view,Harry Potter
+1169,1,addtocart,Hunger Games
+12874,2,view,Harry Potter
+36099,3,view,Twilight
+44397,1,view,Hunger Games
+25164,5,addtocart,Gatsby
+12381,4,view,Mockingbird
+17566,2,addtocart,Harry Potter
+1169,4,view,Mockingbird
+32055,2,view,Harry Potter
+47476,2,addtocart,Harry Potter
+13794,3,view,Twilight
+33716,2,view,Harry Potter
+33065,4,transaction,Mockingbird
+11927,2,addtocart,Harry Potter
+32592,2,addtocart,Harry Potter
+26661,5,view,Gatsby
+38475,1,view,Hunger Games
+30681,4,view,Mockingbird
+2487,4,addtocart,Mockingbird
+14372,2,view,Harry Potter
+21228,1,view,Hunger Games
+44397,4,transaction,Mockingbird
+23576,2,view,Harry Potter
+38080,1,view,Hunger Games
+32635,2,addtocart,Harry Potter
+10751,2,addtocart,Harry Potter
+8167,5,view,Gatsby
+19729,2,addtocart,Harry Potter
+37284,4,addtocart,Mockingbird
+18313,3,view,Twilight
+25214,3,view,Twilight
+6342,2,view,Harry Potter
+17228,5,transaction,Gatsby
+21228,5,addtocart,Gatsby
+32918,3,view,Twilight
+17566,2,addtocart,Harry Potter
+32748,5,view,Gatsby
+17663,4,view,Mockingbird
+10140,2,addtocart,Harry Potter
+18361,2,addtocart,Harry Potter
+50102,4,addtocart,Mockingbird
+51166,2,addtocart,Harry Potter
+15604,2,addtocart,Harry Potter
+43602,3,view,Twilight
+23612,1,view,Hunger Games
+24845,1,view,Hunger Games
+33872,2,addtocart,Harry Potter
+47800,2,view,Harry Potter
+21217,4,addtocart,Mockingbird
+17643,4,view,Mockingbird
+33872,2,view,Harry Potter
+18031,4,addtocart,Mockingbird
+26629,1,view,Hunger Games
+24834,2,view,Harry Potter
+4536,3,view,Twilight
+23576,5,view,Gatsby
+2900,1,transaction,Hunger Games
+50096,3,transaction,Twilight
+14546,4,addtocart,Mockingbird
+21713,1,view,Hunger Games
+5115,2,addtocart,Harry Potter
+3662,1,addtocart,Hunger Games
+24834,1,addtocart,Hunger Games
+11945,2,view,Harry Potter
+5436,4,addtocart,Mockingbird
+11691,5,view,Gatsby
+10610,3,view,Twilight
+6063,3,addtocart,Twilight
+33872,1,addtocart,Hunger Games
+53245,1,addtocart,Hunger Games
+11945,5,addtocart,Gatsby
+5461,5,transaction,Gatsby
+51166,3,view,Twilight
+11945,4,view,Mockingbird
+20848,1,addtocart,Hunger Games
+48687,5,addtocart,Gatsby
+14192,4,view,Mockingbird
+33716,5,addtocart,Gatsby
+45269,2,view,Harry Potter
+29703,4,transaction,Mockingbird
+13282,2,addtocart,Harry Potter
+20467,4,addtocart,Mockingbird
+10246,5,addtocart,Gatsby
+45269,5,addtocart,Gatsby
+38082,3,view,Twilight
+33890,1,view,Hunger Games
+12946,5,addtocart,Gatsby
+5885,2,view,Harry Potter
+14546,3,addtocart,Twilight
+10111,2,transaction,Harry Potter
+6342,5,view,Gatsby
+24499,2,view,Harry Potter
+37834,1,addtocart,Hunger Games
+2487,4,transaction,Mockingbird
+49298,2,addtocart,Harry Potter
+47411,4,addtocart,Mockingbird
+23576,4,addtocart,Mockingbird
+29703,1,view,Hunger Games
+13034,4,view,Mockingbird
+51460,2,view,Harry Potter
+7001,5,addtocart,Gatsby
+47746,3,view,Twilight
+38798,5,view,Gatsby
+25164,4,view,Mockingbird
+28767,1,view,Hunger Games
+5885,1,view,Hunger Games
+2900,5,transaction,Gatsby
+3739,4,view,Mockingbird
+48482,4,addtocart,Mockingbird
+12946,4,view,Mockingbird
+20848,3,view,Twilight
+11692,5,view,Gatsby
+21676,4,view,Mockingbird
+13794,5,view,Gatsby
+12874,2,addtocart,Harry Potter
+29123,4,addtocart,Mockingbird
+11691,2,addtocart,Harry Potter
+5461,5,addtocart,Gatsby
+36099,4,view,Mockingbird
+15604,4,view,Mockingbird
+9731,2,addtocart,Harry Potter
+1169,4,view,Mockingbird
+5885,2,addtocart,Harry Potter
+34688,5,addtocart,Gatsby
+10944,3,view,Twilight
+32305,3,view,Twilight
+50096,3,addtocart,Twilight
+314,5,view,Mockingbird
+24326,1,view,Hunger Games
+25840,5,view,Gatsby
+44397,5,view,Gatsby
+18031,1,view,Hunger Games
+16913,2,view,Harry Potter
+32918,2,addtocart,Harry Potter
+17434,1,view,Hunger Games
+32635,3,view,Twilight
+21487,4,addtocart,Mockingbird
+51838,2,view,Harry Potter
+26661,5,view,Gatsby
+46482,4,view,Mockingbird
+314,5,view,Mockingbird
+33697,2,view,Harry Potter
+25182,3,view,Twilight
+12946,5,view,Gatsby
+50102,4,view,Mockingbird
+32635,2,addtocart,Harry Potter
+5885,3,addtocart,Twilight
+42404,5,view,Gatsby
+18313,2,addtocart,Harry Potter
+20467,4,view,Mockingbird
+1185,1,addtocart,Hunger Games
+38080,3,view,Twilight
+10335,1,view,Hunger Games
+5885,2,view,Harry Potter
+25164,5,view,Gatsby
+21228,2,addtocart,Harry Potter
+33697,2,addtocart,Harry Potter
+50102,4,view,Mockingbird
+28767,3,view,Twilight
+30681,1,view,Hunger Games
+14546,3,transaction,Twilight
+16377,1,addtocart,Hunger Games
+22602,5,view,Gatsby
+33872,4,view,Mockingbird
+12476,5,addtocart,Gatsby
+11691,4,view,Mockingbird
+13282,2,view,Harry Potter
+6630,3,addtocart,Twilight
+32748,4,transaction,Mockingbird
+12946,5,view,Gatsby
+34688,5,view,Gatsby
+10246,5,view,Gatsby
+46421,2,view,Harry Potter
+43985,1,view,Hunger Games
+20076,3,addtocart,Twilight
+52036,5,addtocart,Gatsby
+21713,1,addtocart,Hunger Games
+3662,5,view,Gatsby
+19526,5,view,Gatsby
+48482,3,view,Twilight
+33697,5,addtocart,Gatsby
+22602,2,addtocart,Harry Potter
+19942,2,view,Harry Potter
+14546,4,view,Mockingbird
+23576,3,view,Twilight
+32923,5,transaction,Gatsby
+17984,4,view,Mockingbird
+46139,5,addtocart,Gatsby
+30313,2,addtocart,Harry Potter
+28767,1,addtocart,Hunger Games
+53292,3,view,Twilight
+588,1,addtocart,Hunger Games
+10146,1,transaction,Hunger Games
+12946,2,addtocart,Harry Potter
+10140,4,view,Mockingbird
+19942,2,addtocart,Harry Potter
+50101,3,view,Twilight
+45269,4,addtocart,Mockingbird
+21487,5,addtocart,Gatsby
+6630,2,addtocart,Harry Potter
+3739,4,addtocart,Mockingbird
+8167,2,view,Harry Potter
+25182,5,addtocart,Gatsby
+17566,2,view,Harry Potter
+17434,2,addtocart,Harry Potter
+19729,4,view,Mockingbird
+32338,5,view,Gatsby
+6630,4,view,Mockingbird
+49288,3,view,Twilight
+10288,2,view,Harry Potter
+38475,3,view,Twilight
+43985,1,addtocart,Hunger Games
+50133,3,addtocart,Twilight
+27834,5,view,Gatsby
+32918,2,view,Harry Potter
+3922,1,view,Hunger Games
+33697,1,view,Hunger Games
+33872,2,view,Harry Potter
+12381,4,view,Mockingbird
+21733,2,view,Harry Potter
+19729,2,view,Harry Potter
+26661,4,addtocart,Mockingbird
+29703,1,addtocart,Hunger Games
+24326,1,view,Hunger Games
+49298,2,view,Harry Potter
+10610,2,view,Harry Potter
+24389,1,addtocart,Hunger Games
+17566,2,view,Harry Potter
+42810,2,addtocart,Harry Potter
+33065,5,view,Gatsby
+11285,2,view,Harry Potter
+10246,1,view,Hunger Games
+29703,5,view,Gatsby
+51166,5,addtocart,Gatsby
+26629,4,view,Mockingbird
+5436,4,view,Mockingbird
+11285,2,view,Harry Potter
+28158,1,view,Hunger Games
+51166,2,view,Harry Potter
+12946,3,addtocart,Twilight
+53245,4,view,Mockingbird
+10402,5,view,Gatsby
+21487,5,view,Gatsby
+38080,3,transaction,Twilight
+37834,4,view,Mockingbird
+5885,3,view,Twilight
+44243,4,view,Mockingbird
+39423,1,view,Hunger Games
+30944,5,view,Gatsby
+20782,3,view,Twilight
+23612,1,addtocart,Hunger Games
+48687,4,view,Mockingbird
+33890,1,addtocart,Hunger Games
+14372,2,addtocart,Harry Potter
+10146,1,view,Hunger Games
+47800,4,view,Mockingbird
+3662,1,view,Hunger Games
+30313,2,view,Harry Potter
+13274,3,addtocart,Twilight
+46977,3,view,Twilight
+11408,2,view,Harry Potter
+19526,2,addtocart,Harry Potter
+32305,1,addtocart,Hunger Games
+53245,4,view,Mockingbird
+49298,1,view,Hunger Games
+3922,1,addtocart,Hunger Games
+33697,1,view,Hunger Games
+588,3,view,Twilight
+23612,2,view,Harry Potter
+43985,3,view,Twilight
+14372,2,view,Harry Potter
+11868,2,view,Harry Potter
+10509,2,view,Harry Potter
+33716,5,addtocart,Gatsby
+12381,5,view,Gatsby
+3662,5,view,Gatsby
+46482,4,addtocart,Mockingbird
+18031,3,addtocart,Twilight
+51838,2,view,Harry Potter
+33065,5,addtocart,Gatsby
+17663,1,addtocart,Hunger Games
+20467,5,addtocart,Gatsby
+30944,2,view,Harry Potter
+3739,4,addtocart,Mockingbird
+22602,5,transaction,Gatsby
+17643,5,view,Gatsby
+32592,3,transaction,Twilight
+10146,1,view,Hunger Games
+30681,1,transaction,Hunger Games
+24499,1,addtocart,Hunger Games
+21487,3,addtocart,Twilight
+10944,2,view,Harry Potter
+3739,4,view,Mockingbird
+38475,1,view,Hunger Games
+18031,3,view,Twilight
+18361,1,addtocart,Hunger Games
+21713,1,view,Hunger Games
+5461,2,addtocart,Harry Potter
+50104,5,transaction,Gatsby
+5436,2,view,Harry Potter
+31001,1,view,Hunger Games
+32055,1,addtocart,Hunger Games
+42404,4,view,Mockingbird
+17984,2,addtocart,Harry Potter
+20848,3,view,Twilight
+25182,2,addtocart,Harry Potter
+9246,5,view,Gatsby
+28767,3,view,Twilight
+51460,3,view,Twilight
+19729,5,addtocart,Gatsby
+51166,1,view,Hunger Games
+3662,1,addtocart,Hunger Games
+42404,2,view,Harry Potter
+50104,5,view,Gatsby
+49298,4,view,Mockingbird
+3662,5,view,Gatsby
+44397,5,view,Gatsby
+6063,3,view,Twilight
+17984,2,transaction,Harry Potter
+2487,3,view,Twilight
+51838,5,addtocart,Gatsby
+28158,5,view,Gatsby
+10402,5,view,Gatsby
+11691,4,addtocart,Mockingbird
+23576,5,transaction,Gatsby
+47476,2,view,Harry Potter
+11945,2,addtocart,Harry Potter
+19526,4,addtocart,Mockingbird
+28767,1,addtocart,Hunger Games
+37284,3,view,Twilight
+48559,4,transaction,Mockingbird
+51460,3,view,Twilight
+13282,3,addtocart,Twilight
+12874,4,view,Mockingbird
+19724,2,view,Harry Potter
+28767,4,addtocart,Mockingbird
+51838,1,view,Hunger Games
+17984,1,view,Hunger Games
+3022,2,view,Harry Potter
+11868,2,transaction,Harry Potter
+15604,2,view,Harry Potter
+46977,1,addtocart,Hunger Games
+10140,1,view,Hunger Games
+11408,3,view,Twilight
+24326,1,transaction,Hunger Games
+25164,4,transaction,Mockingbird
+3922,1,view,Hunger Games
+42404,5,addtocart,Gatsby
+51838,5,view,Gatsby
+24389,3,addtocart,Twilight
+5115,2,view,Harry Potter
+37834,2,view,Harry Potter
+42404,2,transaction,Harry Potter
+33697,4,transaction,Mockingbird
+29123,1,view,Hunger Games
+9246,5,addtocart,Gatsby
+26629,5,transaction,Gatsby
+12381,5,addtocart,Gatsby
+18313,5,view,Gatsby
+48687,5,view,Gatsby
+5379,1,view,Hunger Games
+10610,1,view,Hunger Games
+17228,4,addtocart,Mockingbird
+8167,5,view,Gatsby
+3922,4,addtocart,Mockingbird
+1169,1,view,Hunger Games
+25182,5,view,Gatsby
+2487,4,view,Mockingbird
+20076,3,view,Twilight
+11408,2,addtocart,Harry Potter
+48559,4,view,Mockingbird
+32748,1,view,Hunger Games
+22602,5,addtocart,Gatsby
+32918,4,addtocart,Mockingbird
+24499,1,view,Hunger Games
+51838,2,addtocart,Harry Potter
+21676,2,view,Harry Potter
+45554,5,addtocart,Gatsby
+19724,3,addtocart,Twilight
+14603,5,view,Gatsby
+46977,1,view,Hunger Games
+33065,2,addtocart,Harry Potter
+11692,2,view,Harry Potter
+26661,4,addtocart,Mockingbird
+32748,1,addtocart,Hunger Games
+38080,3,view,Twilight
+51838,4,view,Mockingbird
+19724,5,view,Gatsby
+14603,5,view,Gatsby
+32923,1,view,Hunger Games
+32055,2,view,Harry Potter
+29123,4,view,Mockingbird
+51838,1,addtocart,Hunger Games
+44243,5,view,Gatsby
+12471,3,view,Twilight
+13776,5,view,Gatsby
+24389,1,view,Hunger Games
+6342,4,transaction,Mockingbird
+16913,3,addtocart,Twilight
+24499,2,addtocart,Harry Potter
+11691,2,view,Harry Potter
+9246,4,view,Mockingbird
+8370,5,addtocart,Gatsby
+10140,1,addtocart,Hunger Games
+38082,1,view,Hunger Games
+42404,3,view,Twilight
+21228,4,view,Mockingbird
+2487,5,view,Gatsby
+7563,1,view,Hunger Games
+24326,1,addtocart,Hunger Games
+3922,2,addtocart,Harry Potter
+12946,2,view,Harry Potter
+32592,2,view,Harry Potter
+22602,3,view,Twilight
+20076,1,view,Hunger Games
+32748,2,view,Harry Potter
+25164,4,addtocart,Mockingbird
+33872,5,addtocart,Gatsby
+22602,2,view,Harry Potter
+13274,3,transaction,Twilight
+23576,5,view,Gatsby
+17663,5,transaction,Gatsby
+42404,4,view,Mockingbird
+6063,3,view,Twilight
+2900,3,view,Twilight
+21217,5,view,Gatsby
+10140,4,addtocart,Mockingbird
+18361,2,view,Harry Potter
+11945,2,addtocart,Harry Potter
+47730,4,addtocart,Mockingbird
+37834,2,addtocart,Harry Potter
+21228,4,view,Mockingbird
+16913,2,view,Harry Potter
+19942,2,view,Harry Potter
+17434,2,view,Harry Potter
+17434,1,addtocart,Hunger Games
+14192,4,addtocart,Mockingbird
+36099,3,view,Twilight
+33716,4,view,Mockingbird
+26661,4,view,Mockingbird
+3739,5,transaction,Gatsby
+46482,5,view,Gatsby
+11868,5,view,Gatsby
+11945,4,view,Mockingbird
+32635,1,transaction,Hunger Games
+1169,2,view,Hunger Games
+5379,1,view,Hunger Games
+41074,5,addtocart,Gatsby
+25214,1,addtocart,Hunger Games
+21733,5,view,Gatsby
+50133,2,view,Harry Potter
+38080,1,view,Hunger Games
+32923,5,view,Gatsby
+3922,1,transaction,Hunger Games
+21733,4,view,Mockingbird
+30283,4,view,Mockingbird
+6630,1,addtocart,Hunger Games
+9246,1,view,Hunger Games
+8370,5,view,Gatsby
+12471,1,view,Hunger Games
+44397,4,view,Mockingbird
+21713,1,addtocart,Hunger Games
+21733,4,transaction,Mockingbird
+32635,5,view,Gatsby
+46421,5,view,Gatsby
+23576,4,addtocart,Mockingbird
+25182,5,transaction,Gatsby
+53292,4,view,Mockingbird
+20782,3,addtocart,Twilight
+13034,4,view,Mockingbird
+20467,4,view,Mockingbird
+51838,2,addtocart,Harry Potter
+12946,4,transaction,Mockingbird
+32918,4,transaction,Mockingbird
+21487,2,addtocart,Harry Potter
+7001,5,transaction,Gatsby
+30944,2,addtocart,Harry Potter
+51166,3,addtocart,Twilight
+2324,4,view,Mockingbird
+25840,4,view,Mockingbird
+50096,3,view,Twilight
+43985,4,addtocart,Mockingbird
+19526,4,transaction,Mockingbird
+32923,1,addtocart,Hunger Games
+19724,4,transaction,Mockingbird
+18313,4,view,Mockingbird
+25840,4,view,Mockingbird
+28158,5,view,Gatsby
+26629,1,addtocart,Hunger Games
+18031,1,addtocart,Hunger Games
+3662,5,addtocart,Gatsby
+20467,1,view,Hunger Games
+49289,3,transaction,Twilight
+41074,1,view,Hunger Games
+21487,2,addtocart,Harry Potter
+32635,2,view,Harry Potter
+5885,1,view,Hunger Games
+25182,4,addtocart,Mockingbird
+13282,3,view,Twilight
+19526,4,addtocart,Mockingbird
+5885,2,view,Harry Potter
+46421,2,addtocart,Harry Potter
+51838,1,view,Hunger Games
+6630,2,transaction,Harry Potter
+26145,1,view,Hunger Games
+19724,3,view,Twilight
+19729,2,view,Harry Potter
+23612,1,view,Hunger Games
+42508,2,addtocart,Harry Potter
+11927,5,addtocart,Gatsby
+45269,1,view,Hunger Games
+19729,5,view,Gatsby
+45554,5,view,Gatsby
+26629,2,view,Harry Potter
+24499,2,addtocart,Harry Potter
+53245,4,addtocart,Mockingbird
+47746,3,addtocart,Twilight
+15604,2,view,Harry Potter
+21676,2,addtocart,Harry Potter
+10111,2,view,Harry Potter
+28767,5,view,Gatsby
+13034,5,addtocart,Gatsby
+439,1,addtocart,Hunger Games
+14603,4,transaction,Mockingbird
+21217,4,view,Mockingbird
+53292,2,addtocart,Harry Potter
+19526,4,view,Mockingbird
+19942,2,view,Harry Potter
+29819,5,view,Gatsby
+25182,5,view,Gatsby
+32635,5,addtocart,Gatsby
+6630,3,view,Twilight
+25182,2,view,Harry Potter
+45269,5,view,Gatsby
+25182,3,view,Twilight
+11927,3,view,Twilight
+11927,2,addtocart,Harry Potter
+11599,3,addtocart,Twilight
+19724,3,addtocart,Twilight
+12874,5,addtocart,Gatsby
+33716,4,addtocart,Mockingbird
+23612,2,view,Harry Potter
+20406,5,view,Gatsby
+31001,1,view,Hunger Games
+18361,1,addtocart,Hunger Games
+13282,1,view,Hunger Games
+10246,5,addtocart,Gatsby
+51166,3,view,Twilight
+8370,5,view,Gatsby
+1169,5,addtocart,Gatsby
+439,4,view,Twilight
+53292,3,view,Twilight
+10610,2,addtocart,Harry Potter
+32305,2,view,Harry Potter
+17663,5,addtocart,Gatsby
+18031,4,view,Mockingbird
+41074,5,view,Gatsby
+21713,1,transaction,Hunger Games
+1169,4,addtocart,Mockingbird
+32918,2,view,Harry Potter
+6630,1,transaction,Hunger Games
+18313,3,addtocart,Twilight
+33890,1,view,Hunger Games
+23612,3,view,Twilight
+11285,3,view,Twilight
+49288,3,addtocart,Twilight
+42404,1,addtocart,Hunger Games
+51460,1,view,Hunger Games
+29703,4,view,Mockingbird
+53245,1,view,Hunger Games
+11691,4,view,Mockingbird
+3922,4,view,Mockingbird
+32923,1,view,Hunger Games
+50104,1,view,Hunger Games
+48559,2,view,Harry Potter
+17984,2,view,Harry Potter
+43602,3,view,Twilight
+30944,5,addtocart,Gatsby
+5272,3,transaction,Twilight
+17984,4,addtocart,Mockingbird
+3662,3,view,Twilight
+13282,2,view,Harry Potter
+10140,3,view,Twilight
+13794,5,view,Gatsby
+3922,1,addtocart,Hunger Games
+50104,1,transaction,Hunger Games
+24499,5,view,Gatsby
+18313,2,view,Harry Potter
+16377,1,view,Hunger Games
+2324,4,transaction,Mockingbird
+21676,2,transaction,Harry Potter
+8178,4,transaction,Mockingbird
+36099,2,addtocart,Harry Potter
+30681,3,view,Twilight
+12946,2,addtocart,Harry Potter
+32305,1,view,Hunger Games
+21487,4,addtocart,Mockingbird
+11945,2,view,Harry Potter
+15494,1,view,Hunger Games
+16913,3,view,Twilight
+30944,2,transaction,Harry Potter
+33716,5,view,Gatsby
+44397,5,addtocart,Gatsby
+8167,4,addtocart,Mockingbird
+30313,4,view,Mockingbird
+10402,5,addtocart,Gatsby
+10335,1,addtocart,Hunger Games
+34688,4,view,Mockingbird
+17434,2,view,Harry Potter
+26579,4,view,Mockingbird
+26629,3,view,Twilight
+52036,3,view,Twilight
+10111,5,addtocart,Gatsby
+11691,2,view,Harry Potter
+10944,1,view,Hunger Games
+45493,1,addtocart,Hunger Games
+53245,1,view,Hunger Games
+32592,2,addtocart,Harry Potter
+50104,3,view,Twilight
+24499,5,view,Gatsby
+14192,4,addtocart,Mockingbird
+50096,2,addtocart,Harry Potter
+12874,4,addtocart,Mockingbird
+15494,1,view,Hunger Games
+11285,4,view,Mockingbird
+21487,2,transaction,Harry Potter
+48482,4,view,Mockingbird
+46482,4,view,Mockingbird
+42508,2,addtocart,Harry Potter
+47800,1,view,Hunger Games
+24834,2,addtocart,Harry Potter
+12381,4,addtocart,Mockingbird
+26661,5,addtocart,Gatsby
+53292,4,transaction,Mockingbird
+51166,2,view,Harry Potter
+2487,3,view,Twilight
+29123,1,view,Hunger Games
+38082,3,view,Twilight
+2900,5,view,Gatsby
+32923,4,view,Mockingbird
+37855,3,addtocart,Twilight
+14207,4,view,Mockingbird
+11408,3,view,Twilight
+5885,2,addtocart,Harry Potter
+33697,1,addtocart,Hunger Games
+14546,3,view,Twilight
+22602,1,addtocart,Hunger Games
+19724,5,addtocart,Gatsby
+16377,1,view,Hunger Games
+28767,2,view,Harry Potter
+10140,1,addtocart,Hunger Games
+1169,4,transaction,Mockingbird
+10610,1,addtocart,Hunger Games
+39423,4,addtocart,Mockingbird
+49297,3,view,Twilight
+18313,4,view,Mockingbird
+1169,5,addtocart,Gatsby
+3739,5,addtocart,Gatsby
+2487,1,view,Hunger Games
+20467,5,view,Gatsby
+37284,4,view,Mockingbird
+17643,2,view,Harry Potter
+11691,4,addtocart,Mockingbird
+24834,2,view,Harry Potter
+50102,3,view,Twilight
+33716,2,transaction,Harry Potter
+26145,2,view,Harry Potter
+6342,4,addtocart,Mockingbird
+30681,4,addtocart,Mockingbird
+16913,1,view,Hunger Games
+3739,5,view,Gatsby
+15494,1,view,Hunger Games
+21487,5,view,Gatsby
+12471,1,view,Hunger Games
+588,1,view,Hunger Games
+18031,4,addtocart,Mockingbird
+17228,5,addtocart,Gatsby
+10140,2,view,Harry Potter
+17984,1,transaction,Hunger Games
+20406,5,view,Gatsby
+10146,1,view,Hunger Games
+11599,3,view,Twilight
+50102,3,addtocart,Twilight
+17984,4,view,Mockingbird
+11692,2,addtocart,Harry Potter
+24326,1,view,Hunger Games
+41074,1,view,Hunger Games
+36099,5,view,Gatsby
+5461,2,view,Harry Potter
+47730,4,transaction,Mockingbird
+13776,5,view,Gatsby
+2900,5,view,Gatsby
+7001,5,addtocart,Gatsby
+32918,3,transaction,Twilight
+49298,4,addtocart,Mockingbird
+12381,5,view,Gatsby
+2077,1,view,Hunger Games
+33872,2,transaction,Harry Potter
+29819,5,view,Gatsby
+26629,3,addtocart,Twilight
+21733,2,view,Harry Potter
+52036,4,view,Mockingbird
+26629,5,view,Gatsby
+34688,4,addtocart,Mockingbird
+32918,3,addtocart,Twilight
+23576,1,addtocart,Hunger Games
+38475,1,addtocart,Hunger Games
+33697,2,view,Harry Potter
+32635,2,view,Harry Potter
+14603,5,addtocart,Gatsby
+10610,2,view,Harry Potter
+18313,4,view,Mockingbird
+21217,2,view,Harry Potter
+12471,1,addtocart,Hunger Games
+12946,3,view,Twilight
+47746,1,view,Hunger Games
+21228,5,view,Gatsby
+32592,3,addtocart,Twilight
+51480,1,view,Hunger Games
+12946,4,addtocart,Mockingbird
+46482,5,addtocart,Gatsby
+13274,3,view,Twilight
+13794,4,view,Mockingbird
+11945,4,addtocart,Mockingbird
+25164,2,addtocart,Harry Potter
+33716,4,addtocart,Mockingbird
+17663,3,view,Twilight
+19942,3,view,Twilight
+33065,4,view,Mockingbird
+23576,5,addtocart,Gatsby
+32748,4,addtocart,Mockingbird
+51166,2,view,Harry Potter
+1952,5,addtocart,Gatsby
+6063,3,addtocart,Twilight
+49289,3,addtocart,Twilight
+51838,4,addtocart,Mockingbird
+10288,2,view,Harry Potter
+32635,1,addtocart,Hunger Games
+45554,5,addtocart,Gatsby
+32923,4,addtocart,Mockingbird
+8167,5,view,Gatsby
+31001,1,view,Hunger Games
+16913,3,view,Twilight
+32305,4,addtocart,Mockingbird
+23612,3,view,Twilight
+47411,4,view,Mockingbird
+12874,2,view,Harry Potter
+32923,5,addtocart,Gatsby
+10944,2,addtocart,Harry Potter
+42810,2,view,Harry Potter
+19724,2,addtocart,Harry Potter
+45269,2,addtocart,Harry Potter
+50133,3,transaction,Twilight
+41074,1,view,Hunger Games
+52036,4,view,Mockingbird
+13282,1,addtocart,Hunger Games
+38082,1,addtocart,Hunger Games
+9246,4,view,Mockingbird
+17663,2,view,Harry Potter
+48687,4,view,Mockingbird
+27499,5,view,Gatsby
+33872,4,transaction,Mockingbird
+50342,1,view,Hunger Games
+32635,1,view,Hunger Games
+6342,4,addtocart,Mockingbird
+28158,1,addtocart,Hunger Games
+46977,2,view,Harry Potter
+19724,2,view,Harry Potter
+24845,1,view,Hunger Games
+21228,1,transaction,Hunger Games
+47746,3,transaction,Twilight
+10944,5,view,Gatsby
+2900,1,view,Hunger Games
+18031,1,addtocart,Hunger Games
+8178,4,view,Mockingbird
+13034,5,view,Gatsby
+2900,3,view,Twilight
+17663,4,view,Mockingbird
+10610,1,view,Hunger Games
+18361,1,view,Hunger Games
+37834,1,view,Hunger Games
+20406,4,view,Mockingbird
+48482,2,transaction,Harry Potter
+21713,1,view,Hunger Games
+46977,3,view,Twilight
+10944,2,addtocart,Harry Potter
+50096,2,addtocart,Harry Potter
+45269,4,view,Mockingbird
+19724,5,transaction,Gatsby
+38082,2,view,Harry Potter
+17663,5,view,Gatsby
+46139,5,addtocart,Gatsby
+38798,5,view,Gatsby
+29703,5,addtocart,Gatsby
+19724,2,view,Harry Potter
+32055,2,addtocart,Harry Potter
+30681,5,view,Gatsby
+13034,4,addtocart,Mockingbird
+14546,2,addtocart,Harry Potter
+21228,1,view,Hunger Games
+9731,2,addtocart,Harry Potter
+5461,1,view,Hunger Games
+14546,4,view,Mockingbird
+10288,2,addtocart,Harry Potter
+52036,5,addtocart,Gatsby
+33872,4,addtocart,Mockingbird
+49295,3,view,Twilight
+33065,2,view,Harry Potter
+32923,1,transaction,Hunger Games
+29123,1,view,Hunger Games
+52036,4,view,Mockingbird
+12946,2,view,Harry Potter
+13776,5,addtocart,Gatsby
+22602,3,addtocart,Twilight
+42508,2,view,Harry Potter
+33697,4,addtocart,Mockingbird
+30681,4,view,Mockingbird
+45493,2,view,Harry Potter
+11285,2,addtocart,Harry Potter
+6630,5,view,Gatsby
+1169,5,view,Gatsby
+10249,3,transaction,Twilight
+24326,3,view,Twilight
+5115,4,transaction,Mockingbird
+50102,3,addtocart,Twilight
+24389,1,view,Hunger Games
+32745,4,addtocart,Mockingbird
+37284,5,view,Gatsby
+21217,4,addtocart,Mockingbird
+1185,1,view,Hunger Games
+18031,4,view,Mockingbird
+53292,2,transaction,Harry Potter
+15604,3,view,Twilight
+47476,1,addtocart,Hunger Games
+27499,5,transaction,Gatsby
+51166,1,view,Hunger Games
+43985,1,view,Hunger Games
+21733,5,view,Gatsby
+14546,5,view,Gatsby
+10140,4,view,Mockingbird
+2900,5,view,Gatsby
+50104,1,view,Hunger Games
+47746,3,view,Twilight
+48559,2,addtocart,Harry Potter
+25182,4,addtocart,Mockingbird
+32635,3,addtocart,Twilight
+3922,5,view,Gatsby
+32338,5,view,Gatsby
+6630,3,addtocart,Twilight
+14546,3,view,Twilight
+51460,4,addtocart,Mockingbird
+33716,3,view,Twilight
+1169,2,view,Hunger Games
+18313,3,view,Twilight
+32338,4,addtocart,Mockingbird
+47476,2,view,Harry Potter
+33697,4,addtocart,Mockingbird
+11285,3,view,Twilight
+33872,4,addtocart,Mockingbird
+32918,4,view,Mockingbird
+10140,3,view,Twilight
+14603,2,addtocart,Harry Potter
+20467,1,addtocart,Hunger Games
+11927,5,view,Gatsby
+44397,1,addtocart,Hunger Games
+32055,2,view,Harry Potter
+25182,4,view,Mockingbird
+48482,4,view,Mockingbird
+6630,4,addtocart,Mockingbird
+439,1,view,Hunger Games
+26145,2,view,Harry Potter
+10249,3,view,Twilight
+18031,1,view,Hunger Games
+12946,5,view,Gatsby
+27499,4,addtocart,Mockingbird
+48559,4,addtocart,Mockingbird
+37834,4,addtocart,Mockingbird
+50104,1,addtocart,Hunger Games
+26629,1,addtocart,Hunger Games
+2077,3,view,Twilight
+21676,5,view,Gatsby
+20467,1,view,Hunger Games
+42508,2,view,Harry Potter
+26629,5,view,Gatsby
+49298,5,view,Gatsby
